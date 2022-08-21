@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ReleaseManager:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ReleaseManager_jar</output-path>
+    <root id="archive" name="ReleaseManager.jar">
+      <element id="module-output" name="ReleaseManager" />
+    </root>
+  </artifact>
+</component>
